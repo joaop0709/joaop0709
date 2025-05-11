@@ -1,4 +1,4 @@
-##Olá! Me chamo João Paulo Costa
+## Olá! Me chamo João Paulo Costa
 
 
 
@@ -8,7 +8,7 @@
 - 🤔 Idade: 18 
 - 🧑🏻 Pronomes: ele/dele 
 
--->
+
 <div>
   <a href="https://github.com/joaop0709">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop0709&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
