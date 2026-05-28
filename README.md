@@ -10,10 +10,8 @@
 
 
 <div>
-  <a href="https://github.com/joaop0709">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaop0709&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop0709&layout=compact&langs_count=16&theme=dark"/>
-  </a>
+<img width="256" height="256" alt="ghost" src="https://github.com/user-attachments/assets/d659b6d8-390b-4629-8da4-d70779273dd5" />
+
 
 </div>
 
