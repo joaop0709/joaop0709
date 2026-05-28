@@ -10,8 +10,8 @@
 
 
 <div>
-  <img width="256" height="256" alt="fantasma-pixel" src="<img width="256" height="256" alt="ghost" src="https://github.com/user-attachments/assets/8985a2e0-15a8-4121-ac06-0f81584f8d74" />
-" />
+"<img width="256" height="256" alt="ghost" src="https://github.com/user-attachments/assets/8985a2e0-15a8-4121-ac06-0f81584f8d74" />
+
 </div>
 
 
