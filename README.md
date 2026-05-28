@@ -1,27 +1,34 @@
 ## Olá! Me chamo João Paulo Costa
 
-
-
 - 📘 Universitário
-- 🖥 Cursando: ciência da computação 
-- 🏨 Universidade: Ceub
-- 🤔 Idade:19
+- 🖥 Cursando: Ciência da Computação 
+- 🏨 Universidade: CEUB
+- 🤔 Idade: 19 anos
 - 🧑🏻 Pronomes: ele/dele 
 
+<br>
 
-<div>
-<img width="256" height="256" alt="ghost" src="https://github.com/user-attachments/assets/8985a2e0-15a8-4121-ac06-0f81584f8d74" />
+## 🛠️ Tecnologias e Redes
 
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- O seu GIF do Fantasma carregará aqui localmente ou via link corrigido (.png trick) -->
+  <img width="180" height="180" alt="ghost" src="https://github.com/user-attachments/assets/8985a2e0-15a8-4121-ac06-0f81584f8d74" />
+
+  <div>
+    <!-- Ícone do Python Corrigido -->
+    <img align="center" alt="Joao-Python" height="40" width="40" src="https://githubusercontent.com">
+    
+    <br><br>
+
+    <!-- Redes Sociais -->
+    <a href="https://www.instagram.com/jpcxz._/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:joao.csales@sempreceub.com">
+      <img src="https://shields.io" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/jp-jo%C3%A3o-paulo-9aba6235b/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
 </div>
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://dribbble.com/shots/3952983-No-Face-Pixel-Art-GIF">
-﻿
-
-
-<div>
-  <a href="https://www.instagram.com/jpcxz._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao.csales@sempreceub.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/jp-joão-paulo-9aba6235b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
