@@ -10,7 +10,8 @@
 
 
 <div>
-<img width="256" height="256" alt="ghost" src="https://github.com/user-attachments/assets/d659b6d8-390b-4629-8da4-d70779273dd5" />
+<img width="256" height="256" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/c95c29e9-b2c9-4b18-9e50-b622ca123c20" />
+
 
 
 </div>
