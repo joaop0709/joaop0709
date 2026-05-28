@@ -10,10 +10,8 @@
 
 
 <div>
-<img width="256" height="256" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/c95c29e9-b2c9-4b18-9e50-b622ca123c20" />
-
-
-
+  <img width="256" height="256" alt="fantasma-pixel" src="<img width="256" height="256" alt="ghost" src="https://github.com/user-attachments/assets/8985a2e0-15a8-4121-ac06-0f81584f8d74" />
+" />
 </div>
 
 
