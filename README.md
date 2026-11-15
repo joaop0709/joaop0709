@@ -3,7 +3,7 @@
 - 📘 Universitário
 - 🖥 Cursando: Ciência da Computação 
 - 🏨 Universidade: CEUB
-- 🤔 Idade: 19 anos
+- 🤔 Idade: 20 anos
 - 🧑🏻 Pronomes: ele/dele 
 
 <br>
