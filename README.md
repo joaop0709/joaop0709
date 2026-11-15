@@ -26,6 +26,6 @@
 <a href="mailto:joao.csales@sempreceub.com">
   <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://www.linkedin.com/in/jp-jo%C3%A3o-paulo-9aba6235b/" target="_blank">
+<a href="https://www.linkedin.com/in/joao-paulo-costa-sales/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
